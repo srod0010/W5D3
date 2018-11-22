@@ -1,4 +1,5 @@
 require 'rack'
+require 'byebug'
 require_relative '../lib/controller_base'
 
 class MyController < ControllerBase
